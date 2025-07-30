@@ -1,5 +1,3 @@
-# Qbcore_RV-HeavyTraffice
-
 
 # rv-heavytraffic
 
